@@ -1,5 +1,5 @@
 # DCLP
-The implementation for DCLP: Neural Architecture Predictor with Curriculum Contrastive Learning
+The implementation for DCLP: Neural Architecture Predictor with Curriculum Contrastive Learning (AAAI24)
 
 ## Reference
 ```
