@@ -49,11 +49,14 @@ The three .sh files under the folder correspond to searching on three search spa
 ## Reference
 
 ```
-@article{zheng2023dclp,
+@inproceedings{zheng2024dclp,
   title={DCLP: Neural Architecture Predictor with Curriculum Contrastive Learning},
   author={Zheng, Shenghe and Wang, Hongzhi and Mu, Tianyu},
-  journal={arXiv preprint arXiv:2302.13020},
-  year={2023}
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={15},
+  pages={17051--17059},
+  year={2024}
 }
 ```
 
